@@ -21,4 +21,12 @@ I'm a frontend developer dedicated to creating user-friendly websites. I have ex
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="70"/>
 
+
+## 🚀 Streak
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munna8383)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna8383&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+
   
