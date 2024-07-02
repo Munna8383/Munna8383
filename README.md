@@ -1,3 +1,3 @@
 <h1 align="center">
- <img src="https://ibb.co/6ywL1yn" />
+ Hi i am a front end web developer!
 </h1>
