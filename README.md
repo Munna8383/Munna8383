@@ -1,6 +1,6 @@
 
 
-<img  text-aign="cenetr" alt="image" width=1200 src="https://i.ibb.co/5KFSDsW/github-header-image.png"/>
+<img  text-aign="cenetr" alt="image" width=1200 src="https://i.imghippo.com/files/qg3W91725728242.png"/>
 
 
 ## 🚀 About Me
